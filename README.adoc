@@ -1,0 +1,19 @@
+= amazing node 项目
+amazing <amazing_nick@126.com>
+
+这是amazing项目的前端页面展示部分，项目采用node.js做web服务器。
+
+主要技术栈
+
+后端：
+
+- node.js
+- express
+
+模版：
+
+- express-handlebars
+
+前端：
+
+- jquery
